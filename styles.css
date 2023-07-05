@@ -31,18 +31,16 @@ main .card img{
 }
 
 main .card .container{
-    padding: 10px;
+    /* padding: 10px; */
     text-align: center;
 }
 
 main .card .container h3{
     color: hsl(218, 44%, 22%);
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 10px;
 }
 
 main .card .container p{
     color: hsl(220, 15%, 55%);
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 10px;
 }
